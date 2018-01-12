@@ -4,7 +4,7 @@ Shop Management System
 
 Overview
 
-Shop Management system is a simplified console system that includes the functions of goods management, Goods management, and forefront payment.
+Shop Management system is a simplified desktop system, that includes the functions of goods management, Goods management, and forefront payment.
 1.	Forefront payment includes: System Login, Sales Cart and Payment functions
 2.	Backend management display the sales today by Clerk or Goods categories.
 3.	Goods maintenance includes Add, Change, Delete, Search, Display List functions
